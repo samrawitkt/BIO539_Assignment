@@ -1,6 +1,2 @@
-This is a file I can  delete.
-We are using this to test git
-One more line to test recent changes
-Trying this checkout thing
-I just connected it with GitHub
-My first pull example
+Git Assignment
+An interesting pair assignment done in pairs
